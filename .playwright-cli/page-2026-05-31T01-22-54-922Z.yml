@@ -1,0 +1,36 @@
+- generic [ref=e8]:
+  - generic [ref=e9]:
+    - generic [ref=e10]:
+      - generic [ref=e11]: 2026年5月 ▾
+      - generic [ref=e12]: 下拉
+    - generic [ref=e13]:
+      - generic [ref=e14]: 支出 ¥54
+      - generic [ref=e15]: ·
+      - generic [ref=e16]: 收入 ¥0
+      - generic [ref=e17]: ·
+      - generic [ref=e18]: 结余 ¥0
+  - generic [ref=e62]:
+    - generic [ref=e63]: 今天
+    - generic [ref=e64]:
+      - generic [ref=e65]: 测试交易
+      - generic [ref=e66]: ¥18
+    - generic [ref=e67]:
+      - generic [ref=e68]: 测试交易
+      - generic [ref=e69]: ¥18
+    - generic [ref=e70]:
+      - generic [ref=e71]: 测试交易
+      - generic [ref=e72]: ¥18
+  - generic [ref=e25]:
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e28]: 今天
+        - generic [ref=e29]: ▾
+      - generic [ref=e30]:
+        - generic [ref=e31]: ¥
+        - generic [ref=e33]:
+          - generic: "-18 支出 +8500 收入"
+          - textbox [ref=e34]
+    - generic [ref=e37]:
+      - generic: 午餐、地铁…
+      - textbox [ref=e38]
+    - generic [ref=e40]: 记一笔

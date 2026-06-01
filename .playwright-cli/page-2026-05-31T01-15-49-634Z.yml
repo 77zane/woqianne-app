@@ -1,0 +1,48 @@
+- generic [ref=e8]:
+  - generic [ref=e9]:
+    - generic [ref=e10]:
+      - generic [ref=e11]: 2026年5月 ▾
+      - generic [ref=e12]: 下拉
+    - generic [ref=e13]:
+      - generic [ref=e14]: 支出 ¥18
+      - generic [ref=e15]: ·
+      - generic [ref=e16]: 收入 ¥0
+      - generic [ref=e17]: ·
+      - generic [ref=e18]: 结余 ¥0
+  - generic [ref=e63]:
+    - generic [ref=e64]: 今天
+    - generic [ref=e65]:
+      - generic [ref=e66]: 午餐
+      - generic [ref=e67]: ¥18
+  - generic [ref=e25]:
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e28]: 今天
+        - generic [ref=e29]: ▾
+      - generic [ref=e30]:
+        - generic [ref=e31]: ¥
+        - generic [ref=e33]:
+          - generic: "-18 支出 +8500 收入"
+          - textbox [ref=e34]
+    - generic [ref=e37]:
+      - generic: 午餐、地铁…
+      - textbox [ref=e38]
+    - generic [ref=e71]: 午餐
+    - generic [ref=e40]: 记一笔
+  - generic [ref=e73]:
+    - generic [ref=e74]:
+      - generic [ref=e75]: 登录即注册
+      - generic [ref=e76]: ✕
+    - generic [ref=e77]:
+      - generic [ref=e78]: 📧
+      - generic [ref=e80]:
+        - generic: 输入邮箱
+        - textbox [ref=e81]
+    - generic [ref=e82]:
+      - generic [ref=e83]: 🔢
+      - generic [ref=e85]:
+        - generic: 验证码
+        - spinbutton [ref=e86]
+      - generic [ref=e88]: 发送验证码
+    - generic [ref=e90]: 登录
+    - generic [ref=e91]: ⚠ 请牢记邮箱，验证码无法找回

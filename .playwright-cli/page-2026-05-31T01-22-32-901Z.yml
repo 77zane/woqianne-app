@@ -1,0 +1,50 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]: 2026年5月 ▾
+        - generic [ref=e12]: 下拉
+      - generic [ref=e13]:
+        - generic [ref=e14]: 支出 ¥0
+        - generic [ref=e15]: ·
+        - generic [ref=e16]: 收入 ¥0
+        - generic [ref=e17]: ·
+        - generic [ref=e18]: 结余 ¥0
+    - generic [ref=e20]:
+      - generic [ref=e21]: 📝
+      - generic [ref=e22]: 还没有记录
+      - generic [ref=e23]: 在下方输入金额开始记账
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e28]: 今天
+          - generic [ref=e29]: ▾
+        - generic [ref=e30]:
+          - generic [ref=e31]: ¥
+          - generic [ref=e33]:
+            - generic: "-18 支出 +8500 收入"
+            - textbox [ref=e34]
+      - generic [ref=e37]:
+        - generic: 午餐、地铁…
+        - textbox [ref=e38]
+      - generic [ref=e40]: 记一笔
+    - generic [ref=e42]:
+      - generic [ref=e43]:
+        - generic [ref=e44]: 登录即注册
+        - generic [ref=e45]: ✕
+      - generic [ref=e46]:
+        - generic [ref=e47]: 📧
+        - textbox [ref=e50]: pwtest2@example.com
+      - generic [ref=e51]:
+        - generic [ref=e52]: 🔢
+        - generic [ref=e54]:
+          - generic: 验证码
+          - spinbutton [ref=e55]
+        - generic [ref=e61]: 59s
+      - generic [ref=e59]: 登录
+      - generic [ref=e60]: ⚠ 请牢记邮箱，验证码无法找回
+  - generic:
+    - generic:
+      - generic:
+        - img
+        - paragraph: 验证码已发送
