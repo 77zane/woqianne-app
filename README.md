@@ -2,6 +2,14 @@
 
 “我钱呢”是一个基于 UniApp 和 Vue 3 开发的轻量记账应用。项目采用本地优先的数据体验，并支持邮箱验证码登录和云端同步。
 
+## 界面展示
+
+<p align="center">
+  <img src="./docs/images/ledger-mobile.jpg" alt="我钱呢移动端月度账单与快速记账页面" width="360">
+</p>
+
+<p align="center"><em>月度收支汇总、账目明细与快速记账</em></p>
+
 ## 主要功能
 
 - 快速记录收入和支出
